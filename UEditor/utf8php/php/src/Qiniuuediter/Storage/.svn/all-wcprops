@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ybcfapp_thinkPHP/!svn/ver/1015/newapp/public/Public/UEditor/utf8php/php/src/Qiniuuediter/Storage
+END
+ResumeUploader.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ybcfapp_thinkPHP/!svn/ver/1015/newapp/public/Public/UEditor/utf8php/php/src/Qiniuuediter/Storage/ResumeUploader.php
+END
+FormUploader.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ybcfapp_thinkPHP/!svn/ver/1015/newapp/public/Public/UEditor/utf8php/php/src/Qiniuuediter/Storage/FormUploader.php
+END
+UploadManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ybcfapp_thinkPHP/!svn/ver/1015/newapp/public/Public/UEditor/utf8php/php/src/Qiniuuediter/Storage/UploadManager.php
+END
+BucketManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ybcfapp_thinkPHP/!svn/ver/1015/newapp/public/Public/UEditor/utf8php/php/src/Qiniuuediter/Storage/BucketManager.php
+END
